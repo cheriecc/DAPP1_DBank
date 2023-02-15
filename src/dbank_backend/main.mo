@@ -42,7 +42,3 @@ actor DBank{
 
 }
 
-  // Debug.print(debug_show(id));
-  // public query func greet(name : Text) : async Text {
-  //   return "Hello, " # name # "!";
-  // };
